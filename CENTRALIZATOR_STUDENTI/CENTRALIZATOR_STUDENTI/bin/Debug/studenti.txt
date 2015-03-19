@@ -1,0 +1,62 @@
+Marin Alexandru 
+1940321410037
+21
+Matematica si Informatica
+Calculatoare si Tehnologia Informatiei
+353
+5.5
+9
+10
+7.9
+8.6
+8
+Apopei Ieremia-Gheorghe
+1930149531243
+21
+Matematica si Informatica
+Calculatoare si Tehnologia Informatiei
+353
+7.4
+6.9
+9
+8.5
+8
+9
+Baroiu Costin
+1935471256987
+21
+Academia de Studii Economice
+Cibernetica si Informatica Economica
+3214
+7
+7
+8.9
+9
+8.6
+7.4
+Apostol Alexandru
+1931474256967
+21
+Academia de Studii Economice
+Cibernetica si Informatica Economica
+321
+7
+7
+8.2
+9
+8.4
+7.2
+Vrancianu Stefan
+1932233236987
+21
+Academia de Studii Economice
+Cibernetica si Informatica Economica
+321
+6
+6
+8.2
+8.2
+8.2
+5.5
+
+
